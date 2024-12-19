@@ -35,7 +35,7 @@ npm install
 git init
 ```
 
--   Write your code in src/. Wite test in test/
+-   Write your code in src/. Write test in test/
 
 -   To test
 
